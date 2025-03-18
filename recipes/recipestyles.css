@@ -1,0 +1,18 @@
+.lasagnapic,
+.strawbpic,
+.vegpic {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 25;
+}
+
+.pageheading {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(245, 167, 23);
+}
+
+.homebutton {
+    font-size: 20px;
+}
